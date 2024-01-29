@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gautam Malhotra [@gauzam]
 - 👀 I’m interested in backend development to create software that makes life easier.
 - 🌱 I’m currently learning Springboot and Kafka.
-- 💞️ I’m looking to collaborate on exciting projects and leveraging my skill set.
+- 💞️ I’m looking to leverage my skill set by collaborating on exciting projects.
 - 📫 How to reach me: Say Hi! on LinkedIn (https://www.linkedin.com/in/gauzam/)
 - ⚡ Fun fact: I miss more semicolons than I miss my girlfriend.
 
